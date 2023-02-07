@@ -5,7 +5,7 @@
 
   ---------------------------------------------------------------------------------------------------------------------
 
-🌟 Backend Stack 🌟
+🌟  ### Backend Stack 🌟
 
 ![Java](https://img.shields.io/badge/Java-FAB040?style=for-the-badge&logo=Java&logoColor=white)
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
@@ -21,7 +21,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------
   
-🌟 Cowork Tool 🌟
+🌟  ### Cowork Tool 🌟
   
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
