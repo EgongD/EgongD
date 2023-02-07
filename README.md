@@ -1,8 +1,11 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=EgongD%20Github&fontSize=70)
 
 
+  ---------------------------------------------------------------------------------------------------------------------
 
-🌟 Platforms & Language
+🌟 Backend Stack 🌟
 
 ![Java](https://img.shields.io/badge/Java-FAB040?style=for-the-badge&logo=Java&logoColor=white)
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
@@ -16,8 +19,19 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=AWS&logoColor=white">
 ![Doker](https://img.shields.io/badge/Doker-2496ED?style=for-the-badge&logo=Doker&logoColor=white)
 
+---------------------------------------------------------------------------------------------------------------------
+  
+🌟 Cowork Tool 🌟
+  
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 
+
+---------------------------------------------------------------------------------------------------------------------
 
 ✅ Check My Git
 
 ![EgongD's github stats](https://github-readme-stats.vercel.app/api?username=EgongD&show_icons=true)
+
+<div>
