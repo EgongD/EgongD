@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Oauth2-EB5424?style=for-the-badge&logo=Oauth2&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
-<img src="https://img.shields.io/badge/KakaoApi-FFCD00?style=for-the-badge&logo=Kakao&logoColor=white">
 ![Doker](https://img.shields.io/badge/Doker-2496ED?style=for-the-badge&logo=Doker&logoColor=white)
 
 
