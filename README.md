@@ -1,7 +1,5 @@
-### Hi there 👋
-
 📪 Social
-
+https://coding-gongdae.tistory.com
   
 
 📊 Skills
