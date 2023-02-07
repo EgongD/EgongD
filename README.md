@@ -1,5 +1,5 @@
 📪 Social
-![tistory](https://user-images.githubusercontent.com/112362722/217125380-3d9a83fa-86ea-4c96-b5d4-014aaf79c840.svg)
+<img src ="https://user-images.githubusercontent.com/112362722/217125380-3d9a83fa-86ea-4c96-b5d4-014aaf79c840.svg">
 
 
 
