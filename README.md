@@ -1,5 +1,9 @@
 📪 Social
-<img src ="https://user-images.githubusercontent.com/112362722/217125380-3d9a83fa-86ea-4c96-b5d4-014aaf79c840.svg">
+
+<img src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=Zoom&logoColor=white">
+<img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=white">
 
 
 
