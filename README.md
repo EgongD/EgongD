@@ -1,6 +1,5 @@
 📪 Social
 
-<a href=(https://coding-gongdae.tistory.com) target="_blank"><img src="http://img.shields.io./badge/Tistory-#000000"/></a>
 <img src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=Zoom&logoColor=white">
