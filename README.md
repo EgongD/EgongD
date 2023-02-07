@@ -7,7 +7,7 @@
   <h2 align="center">🫡 contact to me 🫡</h2>
 
 <p align="center">
-  <a href="[https://coding-gongdae.tistory.com]"><img src="https://img.shields.io/badge/Blog-A9CCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://coding-gongdae.tistory.com/"/></a>
+  <a href="(https://coding-gongdae.tistory.com)"><img src="https://img.shields.io/badge/Blog-A9CCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://coding-gongdae.tistory.com/"/></a>
   <a href="mailto:dlghtpdk@gmail.com"><img src="https://img.shields.io/badge/Gmail-DDA9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlghtpdk@gmail.com"/></a></p>
   
 </div>
