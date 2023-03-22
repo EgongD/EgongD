@@ -15,7 +15,7 @@
 
   
 # ☀️ About me ☀️
-#### ⚪️ I love coding❤️
+#### ⚪️ Java Backend Engineer
 
 
 <br>
