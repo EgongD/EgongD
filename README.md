@@ -55,5 +55,5 @@
   
 ## ✅ **Check My Git**
 
-![EgongD's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgongD&show_icons=true&theme=radical)
+![EgongD's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgongD&show_icons=true&theme=transparent)
 <div>
